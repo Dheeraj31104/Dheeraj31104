@@ -18,7 +18,6 @@ I’m a **Data Engineer** with industry experience building **scalable data pipe
 - Repo: https://github.com/Dheeraj31104/fianance_rag_lora_mcp  
 - Studied retrieval-augmented generation with parameter-efficient fine-tuning and structured prompting for domain QA under constrained compute.
 
-(Additional coursework/experiments: https://github.com/Dheeraj31104/aml_homework_4)
 
 ---
 
