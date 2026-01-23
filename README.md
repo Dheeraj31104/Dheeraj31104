@@ -43,5 +43,5 @@ I’m a **Data Engineer** with industry experience building **scalable data pipe
 ---
 
 ## 📫 Contact
-- Email: dhkara@iu.edu  
+- Email: karanamdheeraj2024@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/karanamdheeraj  
